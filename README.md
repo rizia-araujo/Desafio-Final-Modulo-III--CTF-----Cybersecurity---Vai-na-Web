@@ -1,4 +1,4 @@
-# 🛡️ Relatório de Pentest: Desafio Final de Cibersegurança
+# Relatório de Pentest: Desafio Final de Cibersegurança
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success)
 ![Foco](https://img.shields.io/badge/Foco-Pentesting-red)
@@ -12,7 +12,7 @@ O objetivo principal foi atuar como um pentester (hacker ético), investigando u
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Realizar o reconhecimento (Information Gathering) do alvo designado.
 - Identificar vetores de ataque e vulnerabilidades (CVEs, misconfigurations).
@@ -31,7 +31,7 @@ Durante a análise, foram utilizadas as seguintes ferramentas e técnicas:
 * **Exploração:** Metasploit
 * **Documentação:** Word
 
-## 🔍 Metodologia
+## Metodologia
 
 A análise seguiu as fases padrão de um teste de intrusão:
 
@@ -42,7 +42,7 @@ A análise seguiu as fases padrão de um teste de intrusão:
 
 
 
-## 📊 Resumo das Descobertas
+## Resumo das Descobertas
 
 > *Nota: Detalhes sensíveis foram sanitizados para este repositório público.*
 
@@ -53,7 +53,7 @@ O relatório completo aponta vulnerabilidades nas seguintes categorias (Exemplos
 - [x] **Média:** Cookie PHPSESSID sem HttpOnly
 - [x] **Baixa:** Ausência de X-Frame-Options (Clickjacking)
 
-## 📂 Estrutura do Repositório
+## Estruturado Repositório
 
 ```bash
 .
