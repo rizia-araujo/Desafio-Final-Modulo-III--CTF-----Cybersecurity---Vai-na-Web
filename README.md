@@ -4,7 +4,7 @@
 ![Foco](https://img.shields.io/badge/Foco-Pentesting-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório contém os artefatos e o relatório final desenvolvido como parte do **Desafio do Último Módulo do Curso de Cibersegurança da Kensei e Vai na Web**.
 
@@ -21,7 +21,7 @@ O objetivo principal foi atuar como um pentester (hacker ético), investigando u
 - Elaborar um relatório profissional com recomendações de correção.
 - Capturar flags espalhadas no laboratório.
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 Durante a análise, foram utilizadas as seguintes ferramentas e técnicas:
 
@@ -48,8 +48,8 @@ A análise seguiu as fases padrão de um teste de intrusão:
 
 O relatório completo aponta vulnerabilidades nas seguintes categorias (Exemplos):
 
-- [ ] **Crítica:** SQL Injection com Escalada de Privilégios
-- [ ] **Alta:** Possível vazamento de backup do banco de dados
+- [x] **Crítica:** SQL Injection com Escalada de Privilégios
+- [x] **Alta:** Possível vazamento de backup do banco de dados
 - [x] **Média:** Cookie PHPSESSID sem HttpOnly
 - [x] **Baixa:** Ausência de X-Frame-Options (Clickjacking)
 
@@ -58,7 +58,7 @@ O relatório completo aponta vulnerabilidades nas seguintes categorias (Exemplos
 ```bash
 .
 ├── /docs
-│   ├── Relatorio_Pentest_Final.pdf  # O relatório final entregue
-│   └── Evidencias/                  # Screenshots e logs sanitizados
-├── /scripts e anotações             # Scripts customizados usados ou anotações
+│   ├── Relatório pentest - Desafio Final Mód III - Rízia A. Araujo.pdf  # O relatório final entregue
+│   └── Evidencias/                                                      # Screenshots e logs sanitizados
+├── /Scripts e anotações                                                 # Scripts customizados usados ou anotações
 └── README.md
